@@ -1,0 +1,311 @@
+@font-face {
+    font-family: vfs-icons;
+    src: url(vfs-icons.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+    font-family: vfs-icons !important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-solution-Attestation-Service:before {
+    content: "\e900"
+}
+
+.icon-solution-Identity-Services:before {
+    content: "\e901"
+}
+
+.icon-solution-MIgration-Service:before {
+    content: "\e902"
+}
+
+.icon-solution-Passport-Counsular:before {
+    content: "\e903"
+}
+
+.icon-solution-Public-Service:before {
+    content: "\e904"
+}
+
+.icon-solution-Verification-Service:before {
+    content: "\e905"
+}
+
+.icon-double-quote-icon:before {
+    content: "\e906"
+}
+
+.icon-info:before {
+    content: "\e907"
+}
+
+.icon-left-thin-arrow:before {
+    content: "\e908"
+}
+
+.icon-close:before {
+    content: "\e909"
+}
+
+.icon-instagram:before {
+    content: "\e90a"
+}
+
+.icon-solution-front-end-operations-centres:before {
+    content: "\e90b"
+}
+
+.icon-solution-integrated-citizen-services:before {
+    content: "\e90c"
+}
+
+.icon-solution-lidpro:before {
+    content: "\e90d"
+}
+
+.icon-solution-mobile-visa-application-centre:before {
+    content: "\e90e"
+}
+
+.icon-solution-resident-permit-enrolment:before {
+    content: "\e90f"
+}
+
+.icon-solution-self-service-kiosk:before {
+    content: "\e910"
+}
+
+.icon-solution-tourism-trade-support-services:before {
+    content: "\e911"
+}
+
+.icon-solution-verification-attestation-services:before {
+    content: "\e912"
+}
+
+.icon-solution-visa-at-doorstep:before {
+    content: "\e913"
+}
+
+.icon-solution-biometric-enrolment:before {
+    content: "\e914"
+}
+
+.icon-solution-application-and-document-checks:before {
+    content: "\e915"
+}
+
+.icon-solution-bronze:before {
+    content: "\e916"
+}
+
+.icon-solution-certification:before {
+    content: "\e917"
+}
+
+.icon-solution-check-and-verify:before {
+    content: "\e918"
+}
+
+.icon-solution-courier-service:before {
+    content: "\e919"
+}
+
+.icon-solution-document-scanning-assistance:before {
+    content: "\e91a"
+}
+
+.icon-solution-electronic-visa-waiver-service:before {
+    content: "\e91b"
+}
+
+.icon-solution-fast-pass:before {
+    content: "\e91c"
+}
+
+.icon-solution-flexible-hours-for-passport-collection:before {
+    content: "\e91d"
+}
+
+.icon-solution-form-filling-assistance:before {
+    content: "\e91e"
+}
+
+.icon-solution-gold:before {
+    content: "\e91f"
+}
+
+.icon-solution-group-appointment-booking:before {
+    content: "\e920"
+}
+
+.icon-solution-home-to-home-service:before {
+    content: "\e921"
+}
+
+.icon-solution-internet-kiosk:before {
+    content: "\e922"
+}
+
+.icon-solution-keep-my-passport-when-applying:before {
+    content: "\e923"
+}
+
+.icon-solution-on-demand-mobile-visa:before {
+    content: "\e924"
+}
+
+.icon-solution-online-payment-assistance:before {
+    content: "\e925"
+}
+
+.icon-solution-personal-chauffeur-service:before {
+    content: "\e926"
+}
+
+.icon-solution-personal-vfs-global-staff-support:before {
+    content: "\e927"
+}
+
+.icon-solution-photobooth:before {
+    content: "\e928"
+}
+
+.icon-solution-photocopying:before {
+    content: "\e929"
+}
+
+.icon-solution-platinum-lounge:before {
+    content: "\e92a"
+}
+
+.icon-solution-premium-courier-service:before {
+    content: "\e92b"
+}
+
+.icon-solution-premium-lounge:before {
+    content: "\e92c"
+}
+
+.icon-solution-prime-time-appointment:before {
+    content: "\e92d"
+}
+
+.icon-solution-printing:before {
+    content: "\e92e"
+}
+
+.icon-solution-priority-visa:before {
+    content: "\e92f"
+}
+
+.icon-solution-private-enrolment-service:before {
+    content: "\e930"
+}
+
+.icon-solution-registered-traveller-assistance:before {
+    content: "\e931"
+}
+
+.icon-solution-settlement-visa-courier-service:before {
+    content: "\e932"
+}
+
+.icon-solution-settlement-visa-scanning-service:before {
+    content: "\e933"
+}
+
+.icon-solution-silver:before {
+    content: "\e934"
+}
+
+.icon-solution-sms-update-service:before {
+    content: "\e935"
+}
+
+.icon-solution-translation:before {
+    content: "\e936"
+}
+
+.icon-solution-vac-to-vac-courier-service:before {
+    content: "\e937"
+}
+
+.icon-solution-vfs-premium-courier-500:before {
+    content: "\e938"
+}
+
+.icon-solution-vfs-premium-courier-700:before {
+    content: "\e939"
+}
+
+.icon-solution-walk-in-lounge:before {
+    content: "\e93a"
+}
+
+.icon-solution-walk-in-without-appointment:before {
+    content: "\e93b"
+}
+
+.icon-countries-of-operation:before {
+    content: "\e93c"
+}
+
+.icon-application-centre:before {
+    content: "\e93d"
+}
+
+.icon-applications:before {
+    content: "\e93e"
+}
+
+.icon-client-govt:before {
+    content: "\e93f"
+}
+
+.icon-continents:before {
+    content: "\e940"
+}
+
+.icon-arrow-point-down:before {
+    content: "\e941"
+}
+
+.icon-twitter:before {
+    content: "\e942"
+}
+
+.icon-email:before {
+    content: "\e943"
+}
+
+.icon-location:before {
+    content: "\e947"
+}
+
+.icon-arrow-right:before {
+    content: "\ea3c"
+}
+
+.icon-arrow-down:before {
+    content: "\ea3e"
+}
+
+.icon-facebook:before {
+    content: "\ea91"
+}
+
+.icon-linkedin:before {
+    content: "\eac9"
+}
